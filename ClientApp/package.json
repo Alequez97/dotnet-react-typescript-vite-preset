@@ -4,8 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "typed-scss-modules src && vite --open",
-    "start:dev": "typed-scss-modules src --watch && vite --open --mode dev",
+    "start": "typed-scss-modules src && vite",
+    "start:dev": "typed-scss-modules src --watch && vite --mode dev",
     "build": "typed-scss-modules src && tsc && vite build",
     "build:dev": "typed-scss-modules src && tsc && vite build --mode dev",
     "build:stage": "typed-scss-modules src && tsc && vite build --mode stage",
