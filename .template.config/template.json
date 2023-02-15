@@ -20,7 +20,10 @@
       "source": "./",
       "target": "./",
       "exclude": [
-        ".template.config/**"
+        ".template.config/**/*",
+        ".git/**/*",
+        "bin/**/*",
+        "obj/**/*"
       ]
     }
   ]
