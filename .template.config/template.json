@@ -7,6 +7,7 @@
   ],
   "identity": "Alequez97Template.AspReactTypescriptVite",
   "name": "ASP.NET Core with React and Vite",
+  "defaultName": "AspReactTypescriptViteWebApp",
   "shortName": "react-vite",
   "tags": {
     "language": "C#",
