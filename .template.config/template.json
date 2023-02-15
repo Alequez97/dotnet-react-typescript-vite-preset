@@ -8,13 +8,12 @@
   "identity": "Alequez97Template.AspReactTypescriptVite",
   "name": "ASP.NET Core with React and Vite",
   "shortName": "react-vite",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "dotnet_react_typescript_vite",
   "preferNameDirectory": true,
-  "primaryOutputs": [
-    {
-      "path": "Company.WebApplication1.csproj"
-    }
-  ],
-  "sourceName": "Company.WebApplication1",
   "sources": [
     {
       "source": "./",
@@ -23,9 +22,5 @@
         ".template.config/**"
       ]
     }
-  ],
-  "tags": {
-    "language": "C#",
-    "type": "project"
-  }
+  ]
 }
